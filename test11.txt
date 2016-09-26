@@ -9,3 +9,4 @@ hi
 123123
 
 test jira integration for DEV1KB-2
+Add comment during checkin
