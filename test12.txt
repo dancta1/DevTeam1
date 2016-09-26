@@ -2,3 +2,5 @@ qweqweqweqweqwe
 qweqweqweqwe
 123123123123
 asdasd123123
+
+test Jira integration - for DEV1KB-2
