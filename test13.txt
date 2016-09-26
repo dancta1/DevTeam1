@@ -4,3 +4,5 @@ asdasda
 2a232aa2a
 987987987
 asda123
+
+test integration with jira DEV1KB-1
